@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at signalselect.v(22): always construct contains both blocking and non-blocking assignments File: D:/Projects/Quartus/signalselect/signalselect.v Line: 22
